@@ -1,1 +1,17 @@
+Link to unlisted YouTube video:
 
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/18IfSVvOWC1P8Cz4c1k7llr-RhhCqKncneB2ytCk1A74/edit?usp=sharing
+
+Paper title:
+Sentiment Analysis in Product Reviews using Natural Language Processing and Machine Learning
+
+Link to the paper:
+ http://www.warse.org/IJISCS/static/pdf/file/ijiscs35822019.pdf
+
+Group Number:
+23
+
+Individual Submitter:
+19341002 Jubaer Bin Islam
